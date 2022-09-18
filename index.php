@@ -23,7 +23,10 @@
 
 ?>
 <button type = "button" class = "btn btn-success">Next</button>
-
+<button type = "button" class = "btn btn-info">Back</button>
+<button type = "button" class = "btn btn-primary">Refresh</button>
+<a href="https://www.Heroku.com" target="_blank" class="btn btn-dark"> Heroku.com</a>
+    
 <?php
     require 'include/footer.php'
 ?>
