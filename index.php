@@ -23,6 +23,8 @@
 
 ?>
 <button type = "button" class = "btn btn-success">Next</button>
+<button type = "button" class = "btn btn-info">Back</button>
+<button type = "button" class = "btn btn-primary">Refresh</button>
 
 <?php
     require 'include/footer.php'
